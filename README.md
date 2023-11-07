@@ -1,5 +1,5 @@
 # scrabble
-Creates a game of Scrabble. In the game of Scrabble, players create words to score points, and the number of points is the sum of the point values of each letter in the word.
+Creates a game of [Scrabble](https://en.wikipedia.org/wiki/Scrabble). In the game of Scrabble, players create words to score points, and the number of points is the sum of the point values of each letter in the word.
 ![image](https://github.com/Aeziren/scrabble/assets/123553708/5371ed99-1615-4c5c-b268-87c224dae56f)
 
 ## Examples
